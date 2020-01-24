@@ -1,0 +1,32 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Convert this to log inventory",
+      "attention": true,
+      "date": "01/23/2020",
+      "tech": "Andrew"
+    },
+    {
+      "id": 2,
+      "message": "Convert to mobile app as well",
+      "attention": true,
+      "date": "01/23/2020",
+      "tech": "Andrew"
+    },
+    {
+      "id": 3,
+      "message": "Add Socket I/O functionality for live update without reload",
+      "attention": true,
+      "date": "01/23/2020",
+      "tech": "Andrew"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Andrew",
+      "lastName": "Mueller"
+    }
+  ]
+}
